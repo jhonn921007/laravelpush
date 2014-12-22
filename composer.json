@@ -1,5 +1,5 @@
 {
-    "name": "jhonn921007/Laravelpush",
+    "name": "jhonn921007/laravelpush",
     "description": "a Ratchet and ZMQ implementation for Laravel 4",
     "keywords": ["websocket", "server", "ratchet", "pusher", "laravel", "laravel4"],
     "license": "MIT",
