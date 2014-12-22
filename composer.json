@@ -1,5 +1,5 @@
 {
-    "name": "redbaron76/larapush",
+    "name": "jhonn921007/Laravelpush",
     "description": "a Ratchet and ZMQ implementation for Laravel 4",
     "keywords": ["websocket", "server", "ratchet", "pusher", "laravel", "laravel4"],
     "license": "MIT",
@@ -7,6 +7,10 @@
         {
             "name": "Fabio Fumis",
             "email": "f.fumis@gmail.com"
+        },
+        {
+            "name": "Jhonn Rod",
+            "email": "jhonn@creatribes.com"
         }
     ],
     "require": {
